@@ -41,5 +41,5 @@ Finally, the student’s name and the current date were written at the top of th
 
 ![TaskB1 image](images/task-b2-result.png)
 
-# Conculsion
+# Conclusion
 This assignment provided a clear introduction to machine vision tools using Python, OpenCV, and RoboDK. Basic image processing concepts were practiced, and the integration between simulation and vision was successfully demonstrated. The skills learned in this assignment form a strong basis for more advanced machine vision applications in future coursework.
