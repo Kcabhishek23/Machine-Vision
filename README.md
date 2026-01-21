@@ -13,7 +13,7 @@ The purpose of this assignment was to become familiar with basic machine vision 
 **1. Task A – OpenCV Basics**<br>
 In Task A, a colorful image was loaded into Python using OpenCV. The image was first converted from the BGR color format (used by OpenCV) to the RGB format so that it could be displayed correctly using Matplotlib. After that, the three color channels (red, green, and blue) were separated.
 
-![Original image](images/Original.png)
+![Original image](images/Original.jpg)
 
 ![TaskA image](images/task-a-result.png)
 
