@@ -2,15 +2,12 @@
 Here is a Project showcase of all of the assignment of machine vision.
 
 
-**Assignment: Introduction to MV tools**
-
-**Name: Abhishek KC**
-
-**Course: Machine Vision**
-
+**Assignment: Introduction to MV tools**<br>
+**Name: Abhishek KC**<br>
+**Course: Machine Vision**<br>
 **Tools: Python, OpenCV, RoboDk**
 
-**Introduction**: 
+# Introduction: 
 The purpose of this assignment was to become familiar with basic machine vision tools using Python, OpenCV, and RoboDK.
 
 **1. Task A – OpenCV Basics**
@@ -33,6 +30,5 @@ Finally, the student’s name and the current date were written at the top of th
 
 ![TaskB1 image](images/task-b2-result.png)
 
-**Conculsion**
-
+# Conculsion
 This assignment provided a clear introduction to machine vision tools using Python, OpenCV, and RoboDK.
