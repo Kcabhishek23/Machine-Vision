@@ -3,18 +3,24 @@ Here is a Project showcase of all of the assignment of machine vision.
 
 
 **Assignment: Introduction to MV tools**
+
 **Name: Abhishek KC**
+
 **Course: Machine Vision**
+
 **Tools: Python, OpenCV, RoboDk**
 
-**Introduction**: The purpose of this assignment was to become familiar with basic machine vision tools using Python, OpenCV, and RoboDK.
+**Introduction**: 
+The purpose of this assignment was to become familiar with basic machine vision tools using Python, OpenCV, and RoboDK.
 
 **1. Task A – OpenCV Basics**
+
 In Task A, a colorful image was loaded into Python using OpenCV. The image was first converted from the BGR color format (used by OpenCV) to the RGB format so that it could be displayed correctly using Matplotlib. After that, the three color channels (red, green, and blue) were separated.
 
 ![TaskA image](images/task-a-result.png)
 
 **2. Task B – RoboDK Camera and Image Annotation**
+
 In **Task B1,** a simulated 2D camera was added to a RoboDK station. A reference frame named CameraFrame was created and positioned above the worktable. The camera was attached to this frame and configured with a fixed resolution of 640×480 pixels. Several colored objects were placed on the table so that they were visible in the camera view.
 
 ![TaskB1 image](images/task-b1-result.png)
@@ -28,4 +34,5 @@ Finally, the student’s name and the current date were written at the top of th
 ![TaskB1 image](images/task-b2-result.png)
 
 **Conculsion**
+
 This assignment provided a clear introduction to machine vision tools using Python, OpenCV, and RoboDK.
